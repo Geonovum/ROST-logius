@@ -1,9 +1,9 @@
-# Vergelijkbare bestemmingsplannen
+## Vergelijkbare bestemmingsplannen
 **De Standaard Vergelijkbare Bestemmingsplannen geeft normen voor de vormgeving en
 inrichting van het digitale bestemmingsplan. Deze praktijkrichtlijn geeft
 richtlijnen voor de opmaak van de analoge bestemmingsplankaart.**
 
-## Grondslagen in Wro, Bro en Regeling standaarden ruimtelijke ordening
+### Grondslagen in Wro, Bro en Regeling standaarden ruimtelijke ordening
 Deze richtlijn is van toepassing op bestemmingsplannen, provinciale
 inpassingsplannen, rijksinpassingsplannen en rijksbestemmingsplannen. Omwille
 van de leesbaarheid worden deze typen instrumenten in dit document samen
@@ -35,7 +35,7 @@ opgemerkt te worden dat dit document zich dus uitsluitend richt op de analoge
 plan<u>kaart</u> van het bestemmingsplan, terwijl de SVBP2012 zich richt op het
 digitale bestemmingsplan als <u>geheel</u>.
 
-## Leeswijzer
+### Leeswijzer
 In de volgende hoofdstukken zijn de richtlijnen voor de analoge plankaart van
 het bestemmingsplan beschreven. [Hoofdstuk 2](#H02) bevat de richtlijnen die van
 toepassing zijn op de plankaart als geheel, [Hoofdstuk 3](#H03) de richtlijnen voor de
