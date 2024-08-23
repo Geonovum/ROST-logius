@@ -10,6 +10,7 @@ var organisationConfig =
     en: {
       geen: "None",
       basis: "Document",
+      ld: "Living document",
       cv: "Candidate recommendation",
       def: "Recommendation",
       vv: "Proposed recommendation",
@@ -18,6 +19,7 @@ var organisationConfig =
     nl: {
       geen: "Geen",
       basis: "Document",
+      ld: "Levend document",
       cv: "Consultatieversie",
       def: "Vastgestelde versie",
       vv: "Versie ter vaststelling",
@@ -27,6 +29,7 @@ var organisationConfig =
   labelColor: {
     geen: "#000000",
     basis: "#80CC28",
+    ld: "#80CC28",
     cv: "#045D9F",
     def: "#045D9F",
     vv: "#045D9F",
@@ -82,6 +85,9 @@ var organisationConfig =
     }
   },
   nl_organisationStylesURL: "https://tools.geostandaarden.nl/publication/domain/ro/",
+  latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
+  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishDate"],
+  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishDate"],
   logos: [
     {
       src: "https://tools.geostandaarden.nl/publication/domain/ro/Geonovum.svg",
@@ -101,6 +107,7 @@ var organisationConfig =
       sotd: "Status of This Document",
       geen: "None",
       basis: "This document has no official standing.",
+      ld: "This is a living document, which is updated regularly.",
       cv: "This is a proposed recommendation approved by TO. Comments regarding this document may be sent to [address].",
       def: "This is the definitive version of this document. Edits resulting from consultations have been applied.",
       vv: "This is the definitive concept of this document. Edits resulting from consultations have been applied.",
@@ -110,6 +117,7 @@ var organisationConfig =
       sotd: "Status van dit document",
       geen: "Geen",
       basis: "Dit is een document zonder officiële status.",
+      ld: "Dit is een levend document dat regelmatig gewijzigd wordt.",
       cv: "Dit is een door het TO goedgekeurde consultatieversie. Commentaar over dit document kan gestuurd worden naar [adres].",
       def: "Dit is de definitieve versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.",
       vv: "Dit is een definitief concept van de nieuwe versie van dit document. Wijzigingen naar aanleiding van consultaties zijn doorgevoerd.",
